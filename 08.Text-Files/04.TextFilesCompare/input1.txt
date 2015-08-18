@@ -1,0 +1,10 @@
+same line 1
+same line 2
+different line - file 1
+same line 3
+different line - file 1
+different line - file 1
+same line 4
+different line - file 1
+different line - file 1
+same line 5
